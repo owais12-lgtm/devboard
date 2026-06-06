@@ -15,4 +15,5 @@ This is a RP2040 based Pi Pico clone
 
 # PCB
 
-https://cdn.hackclub.com/019e9c8d-b261-7653-9188-ff3a20e6aca1/dev.png
+
+
