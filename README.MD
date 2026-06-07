@@ -20,3 +20,5 @@ This is a RP2040 based Pi Pico clone
 
 <img width="449" height="904" alt="image" src="https://github.com/user-attachments/assets/167d8988-00d9-4574-baa0-7a89d662d614" />
 
+# schematic
+<img width="1275" height="509" alt="image" src="https://github.com/user-attachments/assets/a815743a-925f-4980-943a-7167a0f5f3cb" />
